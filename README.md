@@ -4,7 +4,7 @@ Travels app
 
 ## Project description
 
-Using this application travels could find out the main information about the city, the current weather, events, and location to stop by.
+Using this application travelers can find out the main information about the city, the current weather, events, and location to stop by.
 
 ## Framework
 
